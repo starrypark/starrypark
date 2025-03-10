@@ -69,27 +69,24 @@
 ### 📊 Statistics
 - **통계학 기본** : 기초통계학(2016-2), 수리통계학(2018-1), 회귀분석(2017-2)  
 - **통계학 이론** : 확률론 1(2024-1), 통계이론 1(2024-1)
-- **응용통계** : 응용통계(2024-1), 생존분석 및 실습(2024-2), 고급 확률 그래프 모형(2023-2), 고급통계적방법론(2023-2), 시계열분석(2021-2), 비모수통계학(2021-2), 사회과학을 위한 데이터과학(2022-1), 선형방법론(2022-2), 
-- **Time Series Analysis**: Explored ARIMA models and forecasting techniques using Python.
-- **Multivariate Statistical Methods**: Covered principal component analysis (PCA), factor analysis, and clustering.
-- **Experimental Design**: Focused on ANOVA, factorial designs, and randomized block designs.
+- **응용통계 - General** : 응용통계(2024-1), 고급통계적방법론(2023-2), 비모수통계학(2021-2), 범주형 자료분석(2022-1), 선형방법론(2022-2), 
+- **응용통계 - Applying**: 시계열분석(2021-2), 생존분석 및 실습(2024-2), 고급 확률 그래프 모형(2023-2), 사회과학을 위한 데이터과학(2022-1)
+- **실험 계획**:  인과추론(2025-1)
 
 ### 🤖 Artificial Intelligence
-- **Introduction to Artificial Intelligence**: Overview of AI concepts, including search algorithms and knowledge representation.
-- **Machine Learning**: Studied supervised/unsupervised learning, decision trees, random forests, and ensemble methods.
-- **Deep Learning**: Focused on neural networks, convolutional neural networks (CNNs), and recurrent neural networks (RNNs) using TensorFlow and PyTorch.
-- **Natural Language Processing (NLP)**: Learned text preprocessing, word embeddings (Word2Vec), and transformers (e.g., BERT).
-- **Computer Vision**: Explored image processing techniques, object detection, and image classification.
-- **Reinforcement Learning**: Studied Q-learning, policy gradients, and deep reinforcement learning.
+- **KU**: 데이터 마이닝(2018-1), 인공지능을 위한 수학(2023-2), 딥러닝을 위한 수학(2023-2), 강화학습을 위한 수학(2024-2)
+- **SNU**: 딥러닝의 불확실성 계량화(2024-2)
 
 ### 🔢 Mathematics
-- **Linear Algebra**: Covered vector spaces, matrix operations, eigenvalues/eigenvectors, and singular value decomposition (SVD).
-- **Calculus (Single and Multivariable)**: Studied derivatives, integrals, partial derivatives, and gradient descent.
-- **Discrete Mathematics**: Topics included combinatorics, graph theory, logic, and set theory.
-- **Numerical Methods**: Learned numerical solutions for equations, interpolation methods, and numerical integration.
-- **Optimization Theory**: Focused on optimization techniques like gradient descent and Lagrange multipliers.
-- **Differential Equations**: Solved ordinary differential equations (ODEs) and partial differential equations (PDEs).
+- **Linear Algebra**: 선형대수학 1(2017-1), 선형대수학 2(2021-2)
+- **Analysis**: 해석학 1(2017-1), 해석학 2(2017-2), 복소해석학 1(2018-1), 실해석학(2022-1), 미분방정식(2017-2)
+- **Probability Theory**: 확률과 통계(2017-1), 확률과정개론(2021-2)
+- **Other Mathematics**: 대수학 1(2018-1), 위상수학 1(2018-1), 미분기하학 1(2022-1), 수치해석(2022-2)
 
+## TA
+- **통계학** : 2025-1
+- **주제탐구세미나 2 - 통계학 시음회** : 2024-2
+- **첨단융합전공과 나의 미래 2: 융합데이터과학전공 체험** : 2024-2
 
 ## 자격증
 
