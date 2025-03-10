@@ -20,6 +20,7 @@
 ## 연구 분야
 - Time-Series Analysis(시계열 분석)
 - Wearable Device Data(웨어러블 기기 데이터)
+- Bayesian Statistics(베이지안 통계)
 - Factor Analysis(요인 분석)
 - Spatio-Temporal Analysis(시공간 통계)
 
