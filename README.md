@@ -53,7 +53,7 @@
 *2017년 9월 - 2017년 11월*
 - 기록실의 투수와 타자 지표를 반영한 KBO 팀의 승률 분석
 - 다중공선성 분석을 통한 영향력 있는 지표 찾기
-- 시즌별 특징을 반영하기 위한 정규화 방법 연구구
+- 시즌별 특징을 반영하기 위한 정규화 방법 연구
 
 
 ## Internship
@@ -64,10 +64,36 @@
 - LLM 모델의 Fine-Tuning의 다양한 방법론에 대한 연구, 구현과 성능, 시간, 메모리 등 다양한 관점에서 비교
 - Python과 Pytorch를 활용한 Fine-Tuning Pipeline 구축
 
+## 📚 수강 과목
+
+### 📊 Statistics
+- **통계학 기본** : 기초통계학(2016-2), 수리통계학(2018-1), 회귀분석(2017-2)  
+- **통계학 이론** : 확률론 1(2024-1), 통계이론 1(2024-1)
+- **응용통계** : 응용통계(2024-1), 생존분석 및 실습(2024-2), 고급 확률 그래프 모형(2023-2), 고급통계적방법론(2023-2), 시계열분석(2021-2), 비모수통계학(2021-2), 사회과학을 위한 데이터과학(2022-1), 선형방법론(2022-2), 
+- **Time Series Analysis**: Explored ARIMA models and forecasting techniques using Python.
+- **Multivariate Statistical Methods**: Covered principal component analysis (PCA), factor analysis, and clustering.
+- **Experimental Design**: Focused on ANOVA, factorial designs, and randomized block designs.
+
+### 🤖 Artificial Intelligence
+- **Introduction to Artificial Intelligence**: Overview of AI concepts, including search algorithms and knowledge representation.
+- **Machine Learning**: Studied supervised/unsupervised learning, decision trees, random forests, and ensemble methods.
+- **Deep Learning**: Focused on neural networks, convolutional neural networks (CNNs), and recurrent neural networks (RNNs) using TensorFlow and PyTorch.
+- **Natural Language Processing (NLP)**: Learned text preprocessing, word embeddings (Word2Vec), and transformers (e.g., BERT).
+- **Computer Vision**: Explored image processing techniques, object detection, and image classification.
+- **Reinforcement Learning**: Studied Q-learning, policy gradients, and deep reinforcement learning.
+
+### 🔢 Mathematics
+- **Linear Algebra**: Covered vector spaces, matrix operations, eigenvalues/eigenvectors, and singular value decomposition (SVD).
+- **Calculus (Single and Multivariable)**: Studied derivatives, integrals, partial derivatives, and gradient descent.
+- **Discrete Mathematics**: Topics included combinatorics, graph theory, logic, and set theory.
+- **Numerical Methods**: Learned numerical solutions for equations, interpolation methods, and numerical integration.
+- **Optimization Theory**: Focused on optimization techniques like gradient descent and Lagrange multipliers.
+- **Differential Equations**: Solved ordinary differential equations (ODEs) and partial differential equations (PDEs).
+
 
 ## 자격증
 
-- SQL 개발자(SQLD), 한국데이터산업진흥원, 2025년 취득
+- SQL 개발자(SQLD), 한국데이터산업진흥원, 2025년 취득 (예정)
 - 데이터 분석 준전문가(ADsP), 한국데이터산업진흥원, 2023년 취득
   
 ## 수상 경력 및 장학금
