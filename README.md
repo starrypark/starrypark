@@ -39,7 +39,7 @@
 - 실시간으로 수집되는, 익명화된 상태의 금융 데이터 이용하여 예측 모형 개발
 - Domain 정보가 없는 익명화된 Data에서, 통계적인 방법론을 이용하여 데이터 특징 분석과 정보 추출
 
-### HD Hyndai AI Challenge : Dacon
+### HD Hyndai AI Challenge : Dacon [Link : https://github.com/starrypark/HD-AI-Challenge]
 *2023년 9월 - 2023년 11월*
 - 선박 정박 시간을 예측하기 위한 AI 알고리즘 개발
 - 다양한 특징이 결합되어 있는 데이터에서 전처리 방법을 이용한 머신 러닝 모델 개발
