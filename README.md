@@ -34,6 +34,9 @@
 학점: 3.8/4.5
 
 ## 연구 분야
+- Survival Analysis (생존분석)
+- Uncertainty Quantification in LLM (LLM에서의 불확실성 계량화)
+- Medical LLM (의료 도메인 LLM) 
 - Time-Series Analysis(시계열 분석)
 - Wearable Device Data(웨어러블 기기 데이터)
 - Bayesian Statistics(베이지안 통계)
